@@ -1,0 +1,11 @@
+name: TacoTime
+version: 1.0.3
+author: RaccoTaco
+main: tacohime.tacotime.TacoTime
+description: Get TacoHime's Time!
+
+commands:
+   tacotime:
+        usage: /<command>
+        aliases: [date, tt]
+        description: Check the time of TacoHime
